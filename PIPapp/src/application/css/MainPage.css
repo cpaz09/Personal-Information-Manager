@@ -1,0 +1,12 @@
+.jfx-tab-pane .control-buttons-tab{
+    -fx-background-color: #36474F;
+}
+.jfx-tab-pane .control-buttons-tab .tab-down-button{
+    -fx-background-color: GREEN;
+}
+.jfx-tab-pane .control-buttons-tab .jfx-rippler{
+    -jfx-rippler-fill: Yellow;
+}
+.jfx-tab-pane .tab-header-background { 
+	-fx-background-color: #36474F;
+}
