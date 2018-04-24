@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+.Button {
+    -fx-background-color: #85C1E9;
+    -fx-font-family: 'Karla';
+    -fx-font-size: 11pt;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.15), 10, 0, 0, 0);
+}
+.AnchorPane {
+    -fx-background-color: gray;
+    -fx-font-family: 'Oxygen';
+    -fx-font-size: 11pt;
+}
+.Label {
+    -fx-font-family: 'Oxygen';
+    -fx-font-size: 18pt;
+}
+.HBox {
+    -fx-font-family: 'Oxygen';
+    -fx-font-size: 26pt;
+    -fx-text-fill: black;
+    -fx-background-color: gray;
+}
